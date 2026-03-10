@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+  background-image: url(Images/employeesbg.jpeg);
+  background-color: rgba(255, 255, 255, 0.4);
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  background-blend-mode: lighten;
+  height: 100vh;
+}
